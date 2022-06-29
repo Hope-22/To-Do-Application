@@ -1,0 +1,61 @@
+﻿@model ToDo
+
+@{
+}
+
+<form method="post">
+    <div class="border p-3 mt-4">
+        <div class="row pb-2">
+            <h2 class="text-primary">Add Todo</h2>
+            <hr />
+        </div>
+        @*<div asp-validation-summary="All"></div>*@
+        <div class="mb-3">
+            <label asp-for="Name"></label>
+            <input asp-for="Name" class="form-control" />
+            <span asp-validation-for="Name" class="text-danger"></span>
+        </div>
+        <div class="mb-3">
+            <label asp-for="Date"></label>
+            <input asp-for=Date type="date" class="form-control" />
+            <span asp-validation-for="Date" class="text-danger"></span>
+        </div>
+        <div>
+            <input hidden asp-for="Id" class="form-control" />
+        </div>
+        <div class="row">
+            <div class="col-6">
+                <button type="submit" class="btn btn-primary" style="width:150px">Update</button>
+                <a asp-controller="Home" asp-action="Index" class="btn btn-outline-primary" style="width:150px">
+                    Back to List
+                </a>
+            </div>
+            <div class="col-6 text-end">
+                <a class="btn btn-primary col-" style="width:150px" asp-controller="ToDo" asp-action="StatusUpdate" asp-route-id="@Model.Id">
+                    @{
+                        var status = String.Empty;
+                    }
+                    @if (Model.Status == 1)
+                    {
+                        status = "Completed"; 
+                        <span style="color: green">@status</span>
+                    }
+                    else
+                    {
+                        status = "Pending";
+                        <span style="color: red">@status</span>
+                    }
+                    
+                </a>
+            </div>
+        </div>
+
+
+    </div>
+</form>
+
+@section Scripts{
+    @{
+        <partial name="_ValidationScriptsPartial" />
+    }
+    }
