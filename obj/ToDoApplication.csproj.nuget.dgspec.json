@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\hp\\source\\repos\\Second Todo Applicaition\\ToDoApplication.csproj": {}
+    "C:\\Users\\Decagon\\Desktop\\Second Todo Applicaition (2)\\Second Todo Applicaition\\ToDoApplication.csproj": {}
   },
   "projects": {
-    "C:\\Users\\hp\\source\\repos\\Second Todo Applicaition\\ToDoApplication.csproj": {
+    "C:\\Users\\Decagon\\Desktop\\Second Todo Applicaition (2)\\Second Todo Applicaition\\ToDoApplication.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hp\\source\\repos\\Second Todo Applicaition\\ToDoApplication.csproj",
+        "projectUniqueName": "C:\\Users\\Decagon\\Desktop\\Second Todo Applicaition (2)\\Second Todo Applicaition\\ToDoApplication.csproj",
         "projectName": "ToDoApplication",
-        "projectPath": "C:\\Users\\hp\\source\\repos\\Second Todo Applicaition\\ToDoApplication.csproj",
-        "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hp\\source\\repos\\Second Todo Applicaition\\obj\\",
+        "projectPath": "C:\\Users\\Decagon\\Desktop\\Second Todo Applicaition (2)\\Second Todo Applicaition\\ToDoApplication.csproj",
+        "packagesPath": "C:\\Users\\Decagon\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Decagon\\Desktop\\Second Todo Applicaition (2)\\Second Todo Applicaition\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Decagon\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -81,7 +81,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
         }
       }
     }

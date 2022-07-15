@@ -8,65 +8,65 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = ToDoApplication
 build_property.RootNamespace = ToDoApplication
-build_property.ProjectDir = C:\Users\hp\source\repos\Second Todo Applicaition\
+build_property.ProjectDir = C:\Users\Decagon\Desktop\Second Todo Applicaition (2)\Second Todo Applicaition\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\hp\source\repos\Second Todo Applicaition
+build_property.MSBuildProjectDirectory = C:\Users\Decagon\Desktop\Second Todo Applicaition (2)\Second Todo Applicaition
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/hp/source/repos/Second Todo Applicaition/Views/Home/Index.cshtml]
+[C:/Users/Decagon/Desktop/Second Todo Applicaition (2)/Second Todo Applicaition/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/hp/source/repos/Second Todo Applicaition/Views/Home/Privacy.cshtml]
+[C:/Users/Decagon/Desktop/Second Todo Applicaition (2)/Second Todo Applicaition/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/hp/source/repos/Second Todo Applicaition/Views/Shared/Components/SearchList/Default.cshtml]
+[C:/Users/Decagon/Desktop/Second Todo Applicaition (2)/Second Todo Applicaition/Views/Shared/Components/SearchList/Default.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcU2VhcmNoTGlzdFxEZWZhdWx0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/hp/source/repos/Second Todo Applicaition/Views/Shared/Error.cshtml]
+[C:/Users/Decagon/Desktop/Second Todo Applicaition (2)/Second Todo Applicaition/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/hp/source/repos/Second Todo Applicaition/Views/Shared/NotFoundPage.cshtml]
+[C:/Users/Decagon/Desktop/Second Todo Applicaition (2)/Second Todo Applicaition/Views/Shared/NotFoundPage.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXE5vdEZvdW5kUGFnZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/hp/source/repos/Second Todo Applicaition/Views/Shared/_Alerts.cshtml]
+[C:/Users/Decagon/Desktop/Second Todo Applicaition (2)/Second Todo Applicaition/Views/Shared/_Alerts.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9BbGVydHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/hp/source/repos/Second Todo Applicaition/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/Decagon/Desktop/Second Todo Applicaition (2)/Second Todo Applicaition/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/hp/source/repos/Second Todo Applicaition/Views/ToDo/Create.cshtml]
+[C:/Users/Decagon/Desktop/Second Todo Applicaition (2)/Second Todo Applicaition/Views/ToDo/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVG9Eb1xDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/hp/source/repos/Second Todo Applicaition/Views/ToDo/DeleteView.cshtml]
+[C:/Users/Decagon/Desktop/Second Todo Applicaition (2)/Second Todo Applicaition/Views/ToDo/DeleteView.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVG9Eb1xEZWxldGVWaWV3LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/hp/source/repos/Second Todo Applicaition/Views/ToDo/Search.cshtml]
+[C:/Users/Decagon/Desktop/Second Todo Applicaition (2)/Second Todo Applicaition/Views/ToDo/Search.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVG9Eb1xTZWFyY2guY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/hp/source/repos/Second Todo Applicaition/Views/ToDo/Update.cshtml]
+[C:/Users/Decagon/Desktop/Second Todo Applicaition (2)/Second Todo Applicaition/Views/ToDo/Update.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVG9Eb1xVcGRhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/hp/source/repos/Second Todo Applicaition/Views/_ViewImports.cshtml]
+[C:/Users/Decagon/Desktop/Second Todo Applicaition (2)/Second Todo Applicaition/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/hp/source/repos/Second Todo Applicaition/Views/_ViewStart.cshtml]
+[C:/Users/Decagon/Desktop/Second Todo Applicaition (2)/Second Todo Applicaition/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/hp/source/repos/Second Todo Applicaition/Views/Shared/_Layout.cshtml]
+[C:/Users/Decagon/Desktop/Second Todo Applicaition (2)/Second Todo Applicaition/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-2mnmsdtpwr
